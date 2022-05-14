@@ -5,11 +5,13 @@ import {
     Text,
     View,
 } from 'react-vr';
+import BoxEx from './Primitives';
 
 export default class App extends React.Component {
     render() {
         return (
             <View>
+                <BoxEx />
                 <Pano source={asset('salvador-panorama2.jpg')} />
                 <Text
                     style={{

@@ -1,14 +1,22 @@
 import React from 'react';
 import {
     Box,
-    View
+    Cylinder,
+    Sphere,
+    View,
+    Text
 } from 'react-vr';
 
-export default class BoxEx extends React.Component {
+export default class Primitives extends React.Component {
     render() {
         return (
             <View>
-                <Box dimWidth={1} dimHeight={1} dimDepth={1} />
+                <Text style={{color:'blue'}}>
+                    Box
+                </Text>
+                <Box dimWidth={2} dimHeight={2} dimDepth={1} 
+                    style={{color:'red'}}
+                />
             </View>
         );
     }

@@ -6,6 +6,7 @@ https://www.linkedin.com/learning/learning-react-vr/welcome?autoplay=true&resume
 ## Introduction:
 
 1. To create a 360 image use the Pano element and simply call the jpeg file that you added to the static_assets folder.
+2. You can create Primitive 3d objects using the Sphere, Box, Cylinder and other 3d elements from the react vr library. TODO this is not working for me though...
 
 ## Other resources:
 

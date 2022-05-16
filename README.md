@@ -38,5 +38,11 @@ Quick Introdutory Canvas tutorial
 https://youtu.be/3GqUM4mEYKA
 
 
+## React Native and VR - What might the future hold
+
+https://developers.facebook.com/blog/post/2022/01/24/open-source-2021-year-in-review/
+
+React Native has continued raising the bar for mobile development, both at Meta and elsewhere in the industry. In late August, we published React Native’s Many Platform Vision to bring the framework to desktop and virtual reality platforms. The team shared its plans to expand to new platforms with apps like Messenger for Desktop, now available on Windows and macOS. React Native also announced a closer partnership with Reality Labs, to help bring the framework over to VR.
+
 
 
